@@ -1,4 +1,4 @@
-# JH_Jukebox_Framework - A mod framework for Jupiter Hell
+# A mod framework for Jupiter Hell
 
 A framework that can be used to add custom music to Jupiter Hell.
 
