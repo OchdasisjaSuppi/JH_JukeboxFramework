@@ -26,5 +26,5 @@ For Mac users, navigate to your Jupiter Hell app, right click, select "show pack
 
 ### Art
  - Thanks to "Dzioonia" from the Pixilart community for her awesome jukebox art!
- - Dzioonia Profile: https://www.pixil.art/dzioonia
- - Jukebox Art: https://www.pixil.art/art/jukebox-18b51330e04577d
+Dzioonia Profile: https://www.pixil.art/dzioonia
+Jukebox Art: https://www.pixil.art/art/jukebox-18b51330e04577d
