@@ -25,4 +25,4 @@ For Mac users, navigate to your Jupiter Hell app, right click, select "show pack
 ## Credits
 
 ### Art
- - Thanks to [Dzioonia from the Pixilart](https://www.pixil.art/dzioonia) community for her awesome jukebox art!
+ - Thanks to [Dzioonia from Pixilart](https://www.pixil.art/dzioonia) for her awesome jukebox art!
