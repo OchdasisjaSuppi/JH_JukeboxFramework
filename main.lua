@@ -1,13 +1,9 @@
 -- JH_Jukebox_Framework_v1.0 by OchdasisjaSuppi
 
--- nova.require "data\lua\core\common"
-
 --[[ 
-
 #
 ### Define Music
 #
-
 # music_location
 #
 data\music\
@@ -24,7 +20,6 @@ data\lua\jh\sound\music_io.lua
 data\lua\jh\data\generators\
 data\lua\jh\data\levels\
 data\lua\jh\data\worlds\
-
 
 #
 ### Changed Music & Additions
@@ -71,7 +66,6 @@ Music Callisto	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
 	-- music_callisto_intermission
     data\music\callisto\
 		jh_e1i.ogg					| "SONG"		(ALBUM)			# 100% Working in 1.0
--
 
 
 Music Europa	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
@@ -107,7 +101,6 @@ Music Europa	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
 	-- music_europa_intermission
 	data\music\europa\
 		jh_e2i.ogg					| "SONG"		(ALBUM)			# 100% Working in 1.0
--
 
 
 Music Io ----	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
@@ -130,7 +123,6 @@ Music Io ----	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
 	-- music_io_intermission"
 	data\music\io\
 		jh_e3i.ogg					| "SONG"		(ALBUM)			# 100% Working in 1.0
--
 
 
 Music Beyond	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
