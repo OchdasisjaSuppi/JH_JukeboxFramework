@@ -24,7 +24,7 @@ I chose to stick with the game's original folder structure because it makes it e
 # Install
   - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the downloaded mod folder there.<br/>
   - <ins>Mac:</ins> Navigate to your Jupiter Hell app, right click, select "show package contents", navigate to Contents > MacOS, and put the downloaded mod folder into the "mods" folder found there.<br/>
-### Extra Steps
+## Extra Steps
   - Add your *.ogg music files to the "JH_Jukebox_Framework_v1.0\data\music" directory.<br/>
   - Register your music files by adding them to the "JH_Jukebox_Framework_v1.0\[sound.lua](/sound.lua)" file.<br/>
   - Optional: Keep track of your song additions by adding them to the "JH_Jukebox_Framework_v1.0\[main.lua](/main.lua)" file.<br/>
