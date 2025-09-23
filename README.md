@@ -13,7 +13,7 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 
 
 ## Install
-  - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the folder there.<br/>
+  - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the downloaded mod folder there.<br/>
   - <ins>Mac:</ins> Navigate to your Jupiter Hell app, right click, select "show package contents", navigate to Contents > MacOS, and put the downloaded mod folder into the "mods" folder found there.
 
 ## Credits
