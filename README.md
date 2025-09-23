@@ -2,13 +2,12 @@
 This mod framework or template can be used to add custom music to your Jupiter Hell game.<br/>
 
 I added extra documentation to the "[sound.lua](/sound.lua)" file to help identify where the music files are used in the game.<br/>
-The "[main.lua](/main.lua)" file can be used to document your music additions to the game.<br/>
-  I structured it like this:
-  ```
-    -- music register name
-    Path\to\your\music		
-        music_file.ogg
-  ```
+The "[main.lua](/main.lua)" file can be used to document your music additions to the game and is structured it like this:<br/>
+```
+  -- music register name
+  Path\to\music		
+    music_file.ogg
+```
 
 ## Music File Format
 The game uses the Ogg Vorbis format for music files.
