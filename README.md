@@ -20,8 +20,10 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
  - [Convert MP3 to OGG](https://www.youtube.com/watch?v=fOKShUcpzcg) by Master of Tutorials
 
 ## Folder Structure
-I chose to stick with the game's original folder structure because it makes it easier to manage the music files.<br/>
-(You can always adjust the folder structure to your liking.)
+# Overrite Base Game Music
+You need to keep the same file structure for your mod as for the base game and name your music files the same as the ones you want to replace.
+# Keep Base Game Music
+You can adjust the folder structure to your liking.
 
 # Install
   - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the downloaded mod folder there.<br/>
