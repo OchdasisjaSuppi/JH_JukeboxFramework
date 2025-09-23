@@ -1,8 +1,5 @@
 # A mod framework for Jupiter Hell
-This framework can be used to add custom music to Jupiter Hell.
-Listen to your favortie music while playing Jupiter Hell.
-
-## Music Documentation
+This framework can be used to add custom music to Jupiter Hell.<br/>
 I added more documentation to the Sound.lua file to help identify where the music files are used in the game.
 
 ## Music File Format
@@ -16,7 +13,7 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 
 
 ## Install
-Create a mods folder in your Jupiter Hell game directory if it doesn't exist, then add the folder there.
+Create a mods folder in your Jupiter Hell game directory if it doesn't exist, then add the folder there.<br/>
 For Mac users, navigate to your Jupiter Hell app, right click, select "show package contents", navigate to Contents > MacOS, and put the downloaded mod folder into mods folder found there.
 
 ## Credits
