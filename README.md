@@ -20,9 +20,9 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
  - [Convert MP3 to OGG](https://www.youtube.com/watch?v=fOKShUcpzcg) by Master of Tutorials
 
 ## Folder Structure
-# Overrite Base Game Music
+### Overrite Base Game Music
 You need to keep the same file structure for your mod as for the base game and name your music files the same as the ones you want to replace.
-# Keep Base Game Music
+### Keep Base Game Music
 You can adjust the folder structure to your liking.
 
 # Install
