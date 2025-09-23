@@ -4,9 +4,10 @@ This mod framework or template can be used to add custom music to your Jupiter H
 I added extra documentation to the "[sound.lua](/sound.lua)" file to help identify where the music files are used in the game.<br/>
 Optional the "[main.lua](/main.lua)" file can be used to document your music additions to the game. I structured it like this:<br/>
 ```
+Music Location -----
   -- music register name
   Path\to\music		
-    music_file.ogg
+    music_file.ogg			    | "SONG"		(ALBUM)			# 100% Working
 ```
 
 ## Music File Format
