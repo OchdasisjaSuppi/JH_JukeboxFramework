@@ -2,11 +2,18 @@
 This framework can be used to add custom music to Jupiter Hell.
 Listen to your favortie music while playing Jupiter Hell.
 
-## Music File Format
-The game uses the Ogg-Format for music files.
-
 ## Music Documentation
-I added more documentation to the Sound.lua file to help identify where the music file is used in the game.
+I added more documentation to the Sound.lua file to help identify where the music files are used in the game.
+
+## Music File Format
+The game uses the Ogg Vorbis format for music files.
+
+## How to convert your music to *.ogg
+I recomand using the free software [Audacity](https://www.audacityteam.org/) to do so.
+# Video Tutorials
+  - [Install Audacity & convert MP3 t OGG](https://www.youtube.com/watch?v=UlTVuDe63fw) by Drill Design Solutions
+ - [Convert MP3 to OGG](https://www.youtube.com/watch?v=fOKShUcpzcg) by Master of Tutorials
+
 
 ## Install
 Create a mods folder in your Jupiter Hell game directory if it doesn't exist, then add the folder there.
