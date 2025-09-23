@@ -2,6 +2,7 @@
 This mod framework or template can be used to add custom music to your Jupiter Hell game.<br/>
 
 I added extra documentation to the "[sound.lua](/sound.lua)" file to help identify where the music files are used in the game.<br/>
+
 Optional the "[main.lua](/main.lua)" file can be used to document your music additions to the game. I structured it like this:<br/>
 ```
 Music Location -----
