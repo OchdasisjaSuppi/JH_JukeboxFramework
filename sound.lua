@@ -8,12 +8,14 @@ nova.require "data/lua/jh/sound/music_io"
 
 register_music "music_main_01"
 {
-	-- main menu music 
-	-- The Arena | Limbo | Dante Station
+	-- Main Menu | The Arena | Limbo | Dante Station
     group = "music",
+	
 	-- Depending on the quality of your music files, you might have to lower or raise their volume with this setting.
 	volume = 1.0,
-	-- You can always add more than one music track if you want. This is useful for sections that you spent more time in.
+	
+	-- Replace Original Music: Name your music files the same as the one you want to replace.
+	-- To keep Original Music: Give your music files a custum name. Example "jh_main_01.ogg".
     "data/music/jh_main.ogg",
 }
 
@@ -34,7 +36,9 @@ register_music "music_callisto_01"
 	-- Callisto Default | CALLISTO L1
     group = "music",
     volume = 1.0,
-    "data/music/callisto/jh_e1m1.ogg",
+	
+	-- You can always add more than one music track if you want. This is useful for sections that you spent more time in.
+	"data/music/callisto/jh_e1m1.ogg",
 }
 
 register_music "music_callisto_02"
@@ -254,3 +258,4 @@ register_music "music_beyond_04"
 	volume = 1.0,
     "data/music/beyond/jh_e1a4.ogg",
 }
+
