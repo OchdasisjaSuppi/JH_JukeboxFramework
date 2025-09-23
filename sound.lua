@@ -12,7 +12,7 @@ register_music "music_main_01"
 	-- The Arena | Limbo | Dante Station
     group = "music",
 	-- Depending on the quality of your music files, you might have to lower or raise their volume with this setting.
-	volume = 0.6,
+	volume = 1.0,
 	-- You can always add more than one music track if you want. This is useful for sections that you spent more time in.
     "data/music/jh_main.ogg",
 }
@@ -31,60 +31,57 @@ register_music "music_intro_01"
 --
 register_music "music_callisto_01"
 {
-    -- CALLISTO L1
+	-- Callisto Default | CALLISTO L1
     group = "music",
-    -- volume = 0.6,
+    volume = 1.0,
     "data/music/callisto/jh_e1m1.ogg",
 }
 
 register_music "music_callisto_02"
 {
-    -- callisto default
-	-- Storage Room | Workshop | Callisto Hub
+    -- Callisto Default | Storage Room | Workshop | Callisto Hub
     group = "music",
-    -- volume = 0.6,
+    volume = 1.0,
     "data/music/callisto/jh_e1m2.ogg",
 }
 
 register_music "music_callisto_03"
 {
-    -- callisto default
-	-- Storage Room | Workshop | Mimir | Valhalla
+    -- Callisto Default | Storage Room | Workshop | Mimir | Valhalla
     group = "music",
-    -- volume = 0.6,
+    volume = 1.0,
     "data/music/callisto/jh_e1m3.ogg",
 }
 
 register_music "music_callisto_04"
 {
-    -- callisto default
-	-- Storage Room | Workshop | Mimir | Valhalla
+    -- Callisto Default | Storage Room | Workshop | Mimir | Valhalla
     group = "music",
-    -- volume = 0.6,
+    volume = 1.0,
     "data/music/callisto/jh_e1m4.ogg",
 }
 
 register_music "music_callisto_05"
 {
-    -- callisto civilian and starport
-	-- Valhalla Spaceport
+    -- Callisto Civilian | Valhalla Spaceport
     group = "music",
+	volume = 1.0,
     "data/music/callisto/the_tormented.ogg",
 }
 
 register_music "music_callisto_06"
 {
-    -- callisto caves
-	-- Laboratory | Strongroom | Rift
+    -- Callisto Caves | Laboratory | Strongroom | Rift
     group = "music",
+	volume = 1.0,
     "data/music/callisto/silent_killer.ogg",
 }
 
 register_music "music_callisto_07"
 {
-    -- callisto command
-	-- Laboratory | Strongroom | Military Barracks | MDF Central | Rift | Valhalla Command
+    -- Callisto Command | Laboratory | Strongroom | Military Barracks | MDF Central | Rift | Valhalla Command
     group = "music",
+	volume = 1.0,
     "data/music/callisto/ztd3.ogg",
 }
 
@@ -92,6 +89,7 @@ register_music "music_cot_01"
 {
     -- NOT USED IN GAME
     group = "music",
+	volume = 1.0,
     "data/music/callisto/blood2r5.ogg",
 }
 
@@ -99,6 +97,7 @@ register_music "music_callisto_intermission"
 {
     -- callisto intermission screen
     group = "music",
+	volume = 1.0,
     "data/music/callisto/jh_e1i.ogg",
 }
 
@@ -107,9 +106,9 @@ register_music "music_callisto_intermission"
 --
 register_music "music_europa_01"
 {
-    -- europa default
-	-- EUROPA L1 | Storage Room | Workshop 
+    -- Europa Default | EUROPA L1 | Storage Room | Workshop 
     group = "music",
+	volume = 1.0,
     "data/music/europa/ztd1.ogg",
 }
 
@@ -117,6 +116,7 @@ register_music "music_europa_02"
 {
 	-- Laboratory | Strongroom | Biolabs | Containment Area
     group = "music",
+	volume = 1.0,
     "data/music/europa/alive_bitten_dead.ogg",
 }
 
@@ -124,6 +124,7 @@ register_music "music_europa_03"
 {
 	-- Tyre Outpost | Europa Concourse | Refueling Base
     group = "music",
+	volume = 1.0,
     "data/music/europa/ztd2.ogg",
 }
 
@@ -131,6 +132,7 @@ register_music "music_europa_04"
 {
 	-- Dig Zone 
     group = "music",
+	volume = 1.0,
     "data/music/europa/dying_alone.ogg",
 }
 
@@ -138,6 +140,7 @@ register_music "music_europa_05"
 {
 	-- Asterius | Asterius Breach
     group = "music",
+	volume = 1.0,
     "data/music/europa/survivor.ogg",
 }
 
@@ -145,6 +148,7 @@ register_music "music_europa_06"
 {
 	-- Ruins
     group = "music",
+	volume = 1.0,
     "data/music/europa/dawn2.ogg",
 }
 
@@ -152,6 +156,7 @@ register_music "music_europa_07"
 {
 	-- Frozen Temple
     group = "music",
+	volume = 1.0,
     "data/music/europa/eclipsed.ogg",
 }
 
@@ -159,6 +164,7 @@ register_music "music_europa_intermission"
 {
     -- europa intermission screen
     group = "music",
+	volume = 1.0,
     "data/music/europa/jh_e2i.ogg",
 }
 
@@ -167,33 +173,33 @@ register_music "music_europa_intermission"
 --
 register_music "music_io_01"
 {
-    -- io base
-	-- Io L1 | Io Nexus | Storage Room | Workshop | Infernal Lock 
+    -- Io L1 | Io Base | Io Nexus | Storage Room | Workshop | Infernal Lock 
     group = "music",
+	volume = 1.0,
     "data/music/io/only_after_dark.ogg",
 }
 
 register_music "music_io_02"
 {
-    -- io refinery/caves
-	-- Io Blacksite | Io Halls | Io Mephitic
+    -- Io Refinery/Caves | Io Blacksite | Io Halls | Io Mephitic
     group = "music",
+	volume = 1.0,
     "data/music/io/blood_2r1.ogg",
 }
 
 register_music "music_io_03"
 {
-    -- io CRI labs
-	-- Black Site Vaults
+    -- Io CRI Labs | Black Site Vaults
     group = "music",
+	volume = 1.0,
     "data/music/io/blood_2r6.ogg",
 }
 
 register_music "music_io_04"
 {
-    -- io cathedral
-	-- Dark Cathedral
+    -- Io Dark Cathedral
     group = "music",
+	volume = 1.0,
     "data/music/io/blood_2r2.ogg",
 }
 
@@ -201,6 +207,7 @@ register_music "music_io_intermission"
 {
     -- io intermission screen
     group = "music",
+	volume = 1.0,
     "data/music/io/jh_e3i.ogg",
 }
 
@@ -215,6 +222,7 @@ register_music "music_beyond_01"
 	-- The Pit (Europa)
 	-- Tutorial
     group = "music",
+	volume = 1.0,
     "data/music/beyond/jh_e1a1.ogg",
 }
 
@@ -225,6 +233,7 @@ register_music "music_beyond_02"
 	-- Europa Central Dig 
 	-- Tutorial
     group = "music",
+	volume = 1.0,
     "data/music/beyond/jh_e1a2.ogg",
 }
 
@@ -232,6 +241,7 @@ register_music "music_beyond_03"
 {
 	-- Io Laboratory | Io Strongroom | CRI Labs | CRI Armory | Io Gateway
     group = "music",
+	volume = 1.0,
     "data/music/beyond/jh_e1a3.ogg",
 }
 
@@ -241,6 +251,6 @@ register_music "music_beyond_04"
 	-- Dante, Precipice of Defeat | Abattoir | Dante Inferno | Dante Altar
 	-- Io Warehouse | Noxious Hollow
     group = "music",
+	volume = 1.0,
     "data/music/beyond/jh_e1a4.ogg",
-
 }
