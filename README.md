@@ -23,7 +23,7 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 ### Overrite Base Game Music
 You need to keep the same file structure for your mod as for the base game and name your music files the same as the ones you want to replace.
 ### Keep Base Game Music
-You can adjust the folder structure to your liking.
+You can adjust the folder structure to your liking and place your music files wherever you want.
 
 # Install
   - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the downloaded mod folder there.<br/>
