@@ -11,6 +11,9 @@ register_music "music_main_01"
 	-- main menu music 
 	-- The Arena | Limbo | Dante Station
     group = "music",
+	-- Depending on the quality of your music files, you might have to lower or raise their volume with this setting.
+	volume = 0.6,
+	-- You can always add more than one music track if you want. This is useful for sections that you spent more time in.
     "data/music/jh_main.ogg",
 }
 
@@ -239,4 +242,5 @@ register_music "music_beyond_04"
 	-- Io Warehouse | Noxious Hollow
     group = "music",
     "data/music/beyond/jh_e1a4.ogg",
+
 }
