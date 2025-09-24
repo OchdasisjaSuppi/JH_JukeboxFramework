@@ -24,7 +24,8 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 ### Overwrite Base Game Music
 • Keep the Jukebox Framework folder structure as is.<br/>
 • Name your music files the same as the ones you want to replace.<br/>
-• Place your music files in the correct folder. <ins>Example:</ins> The intro music file for Europa (ztd1.ogg) has do be located in the "JH_JukeboxFramework\data\music\europa" folder.<br/>
+• Place your music files in the correct folder. 
+> <ins>Example:</ins> The intro music file for Europa (ztd1.ogg) has do be located in the "JH_JukeboxFramework\data\music\europa" folder.<br/>
 (The folder structure and file names must match those in the base game for the overwrite to work.)
 ### Keep Base Game Music
 • Keep the Jukebox Framework folder structure as is.<br/>
