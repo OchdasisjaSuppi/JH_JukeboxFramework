@@ -26,7 +26,7 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 (The folder structure and file names must match those in the base game for the overwrite to work.)
 ### Keep Base Game Music
 • Keep the Jukebox Framework folder structure as is.<br/>
-• Make sure to give your music files unique names not used by the base game.<br/>
+• Make sure to give your music files unique names that aren't already used by the base game.<br/>
 
 # Install
   - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the downloaded mod folder there.<br/>
