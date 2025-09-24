@@ -1,25 +1,4 @@
--- JH_Jukebox_Framework_v1.0 by OchdasisjaSuppi
-
---[[ 
-#
-### Define Music
-#
-# music_location
-#
-data\music\
-
-# music_register
-#
-data\lua\jh\sound\common.lua
-data\lua\jh\sound\music_callisto.lua
-data\lua\jh\sound\music_europa.lua
-data\lua\jh\sound\music_io.lua
-
-# music_use
-#
-data\lua\jh\data\generators\
-data\lua\jh\data\levels\
-data\lua\jh\data\worlds\
+--[[ JH_Jukebox_Framework_v1.0 by OchdasisjaSuppi
 
 #
 ### Changed Music & Additions
@@ -140,3 +119,4 @@ Music Beyond	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
 	data\music\beyond\
 		jh_e1a4.ogg					| "SONG"		(ALBUM)			# Have a nice day!
 --]]
+
