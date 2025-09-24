@@ -34,8 +34,8 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
   - <ins>Mac:</ins> Navigate to your Jupiter Hell app, right click, select "show package contents", navigate to Contents > MacOS, and put the downloaded mod folder into the "mods" folder found there.<br/>
 ## Extra Steps
   - Add your *.ogg music files to the "JH_Jukebox_Framework\data\music" directory.<br/>
-  - Register your music files by adding them to the "JH_Jukebox_Framework\ [sound.lua](/sound.lua)" file.<br/>
-  - Optional: Keep track of your music additions to the game by adding them to the "JH_Jukebox_Framework\ [main.lua](/main.lua)" file.<br/>
+  - Register your music files by adding them to the "JH_Jukebox_Framework\sound.lua" file.<br/>
+  - Optional: Track your music additions by writing them into the "JH_Jukebox_Framework\main.lua" file.<br/>
 
 ## Credits
 ### Art
