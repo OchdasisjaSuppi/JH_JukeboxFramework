@@ -3,7 +3,7 @@ This mod framework or template can be used to add custom music to your Jupiter H
 
 The Framework contains:<br/>
 • A music file sample in the "[data/music](data/music)" folder that replaces the Jupiter Hell main menu music.<br/>
-• A "[sound.lua](/sound.lua)" file with all music registers and extra documentation to help identify where the music files are used in the game.
+• A "[sound.lua](/sound.lua)" file with all music registers and extra documentation to help identify where the music files are used in the game.<br/>
 • A "[main.lua](/main.lua)" file that can be used to document your music additions to the game. I structured it like this:<br/>
 ```
 Ingame Location -----
