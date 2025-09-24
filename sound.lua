@@ -11,11 +11,10 @@ register_music "music_main_01"
 	-- Main Menu | The Arena | Limbo | Dante Station
     group = "music",
 	
-	-- Depending on the quality of your music files, you might have to lower or raise their volume with this setting.
+	-- You can adjust the volume of a music file if one song is much louder or quieter than the others.
 	volume = 1.0,
 	
-	-- Replace Original Music: Name your music files the same as the one you want to replace.
-	-- To keep Original Music: Give your music files a custum name. Example "jh_main_01.ogg".
+	-- You can add more than one music file to a register. This is most useful for sections that you replay often, like Callisto.
     "data/music/jh_main.ogg",
 }
 
@@ -36,8 +35,6 @@ register_music "music_callisto_01"
 	-- Callisto Default | CALLISTO L1
     group = "music",
     volume = 1.0,
-	
-	-- You can always add more than one music track if you want. This is useful for sections that you spent more time in.
 	"data/music/callisto/jh_e1m1.ogg",
 }
 
@@ -258,5 +255,6 @@ register_music "music_beyond_04"
 	volume = 1.0,
     "data/music/beyond/jh_e1a4.ogg",
 }
+
 
 
