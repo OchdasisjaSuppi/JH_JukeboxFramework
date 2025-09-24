@@ -223,7 +223,7 @@ register_music "music_beyond_01"
 	-- Beyond Intro | Beyond | Beyond Pre Boss
 	-- Callisto Docking Bay  | The Rift
 	-- Dante Vestibule 		 | Dante Halls | Dante Colosseum | Dante Rafters | Dante Ossuary
-	-- The Pit (Europa)
+	-- Europa The Pit
 	-- Tutorial
     group = "music",
 	volume = 1.0,
@@ -258,4 +258,5 @@ register_music "music_beyond_04"
 	volume = 1.0,
     "data/music/beyond/jh_e1a4.ogg",
 }
+
 
