@@ -5,7 +5,7 @@ I added extra documentation to the "[sound.lua](/sound.lua)" file to help identi
 
 Optional the "[main.lua](/main.lua)" file can be used to document your music additions to the game. I structured it like this:<br/>
 ```
-Music Location -----
+Ingame Location -----
   -- music register name
   Path\to\music		
     music_file.ogg			    | "SONG"		(ALBUM)			# 100% Working
