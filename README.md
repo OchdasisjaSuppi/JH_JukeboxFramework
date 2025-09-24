@@ -35,7 +35,7 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 ## Extra Steps
   - Add your *.ogg music files to the "JH_Jukebox_Framework\data\music" directory.<br/>
   - Register your music files by adding them to the "JH_Jukebox_Framework\ [sound.lua](/sound.lua)" file.<br/>
-  - Optional: Keep track of your song additions by adding them to the "JH_Jukebox_Framework\ [main.lua](/main.lua)" file.<br/>
+  - Optional: Keep track of your music additions to the game by adding them to the "JH_Jukebox_Framework\ [main.lua](/main.lua)" file.<br/>
 
 ## Credits
 ### Art
