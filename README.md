@@ -1,7 +1,6 @@
 # A Music Mod Framework For Jupiter Hell
 This mod framework or template can be used to add custom music to your Jupiter Hell game.<br/>
-
-The Framework contains:<br/>
+## Jukebox Framework Content
 • The required folder structure (important for overwriting base game music).<br/>
 • A music file sample in the "[data/music](data/music)" folder that replaces the Jupiter Hell main menu music.<br/>
 • A "[sound.lua](/sound.lua)" file with all music registers and extra documentation to help identify where the music files are used in the game.<br/>
