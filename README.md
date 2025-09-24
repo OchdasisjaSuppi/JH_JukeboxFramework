@@ -24,6 +24,7 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 ### Overwrite Base Game Music
 • Keep the Jukebox Framework folder structure as is.<br/>
 • Name your music files the same as the ones you want to replace.<br/>
+• Place your music files in the correct folder. <ins>Example:</ins> The intro music file for Europa (ztd1.ogg) has do be located in the "JH_JukeboxFramework\data\music\europa" folder.<br/>
 (The folder structure and file names must match those in the base game for the overwrite to work.)
 ### Keep Base Game Music
 • Keep the Jukebox Framework folder structure as is.<br/>
@@ -33,9 +34,9 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
   - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the downloaded mod folder there.<br/>
   - <ins>Mac:</ins> Navigate to your Jupiter Hell app, right click, select "show package contents", navigate to Contents > MacOS, and put the downloaded mod folder into the "mods" folder found there.<br/>
 ## Extra Steps
-  - Add your *.ogg music files to the "JH_Jukebox_Framework\data\music" directory.<br/>
-  - Register your music files by adding them to the "JH_Jukebox_Framework\sound.lua" file.<br/>
-  - Optional: Track your music additions by writing them into the "JH_Jukebox_Framework\main.lua" file.<br/>
+  - Add your *.ogg music files to the "JH_JukeboxFramework\data\music" directory.<br/>
+  - Register your music files by adding them to the "JH_JukeboxFramework\sound.lua" file.<br/>
+  - Optional: Track your music additions by writing them into the "JH_JukeboxFramework\main.lua" file.<br/>
 
 ## Credits
 ### Art
