@@ -25,7 +25,7 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 • Name your music files the same as the ones you want to replace.<br/>
 (The folder structure and file names must match those in the base game for the overwrite to work.)
 ### Keep Base Game Music
-• Keep the Jukebox Framework folder structure as is. (Or change it to your liking.)<br/>
+• Keep the Jukebox Framework folder structure as is.<br/>
 • Make sure to give your music files unique names not used by the base game.<br/>
 
 # Install
