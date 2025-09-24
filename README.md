@@ -15,7 +15,7 @@ Ingame Location -----
 ## Music File Format
 The game uses the Ogg Vorbis format for music files.
 ### Convert Your Music
-I recomand using the free software [Audacity](https://www.audacityteam.org/) to convert your music files to *.ogg.
+I recommend using the free software [Audacity](https://www.audacityteam.org/) to convert your music files to *.ogg.
 ### Audacity Video Tutorials
   - [Install Audacity & convert MP3 to OGG](https://www.youtube.com/watch?v=UlTVuDe63fw) by Drill Design Solutions
  - [Convert MP3 to OGG](https://www.youtube.com/watch?v=fOKShUcpzcg) by Master of Tutorials
