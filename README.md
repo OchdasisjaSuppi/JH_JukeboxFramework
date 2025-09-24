@@ -21,12 +21,12 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 
 ## Folder Structure
 ### Overwrite Base Game Music
-• Keep the Jukebox Framework folder structure as is.
-• Name your music files the same as the ones you want to replace.
+• Keep the Jukebox Framework folder structure as is.<br/>
+• Name your music files the same as the ones you want to replace.<br/>
 (The folder structure and file names must match those in the base game for the overwrite to work.)
 ### Keep Base Game Music
-• Keep the Jukebox Framework folder structure as is. (Or change it to your liking.)
-• Make sure to give your music files unique names not used by the base game.
+• Keep the Jukebox Framework folder structure as is. (Or change it to your liking.)<br/>
+• Make sure to give your music files unique names not used by the base game.<br/>
 
 # Install
   - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the downloaded mod folder there.<br/>
@@ -38,4 +38,4 @@ I recomand using the free software [Audacity](https://www.audacityteam.org/) to 
 
 ## Credits
 ### Art
- - Thanks to [Dzioonia from Pixilart](https://www.pixil.art/dzioonia) for her awesome jukebox art!
+ - Thanks to [Dzioonia from Pixilart](https://www.pixil.art/dzioonia) for her awesome jukebox art!<br/>
