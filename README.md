@@ -31,14 +31,18 @@ I recommend using the free software [Audacity](https://www.audacityteam.org/) to
      (The folder structure and file names must match those in the base game for the overwrite to work.)
 ### Keep Base Game Music
  - Keep the Jukebox Framework folder structure as is.
+   
  - Make sure to give your music files unique names that aren't already used by the base game.
 
 # Install
   - <ins>PC:</ins> Create a "mods" folder in your Jupiter Hell game directory if it doesn't exist, then add the downloaded mod folder there.
+    
   - <ins>Mac:</ins> Navigate to your Jupiter Hell app, right click, select "show package contents", navigate to Contents > MacOS, and put the downloaded mod folder into the "mods" folder found there.
 ### Extra Steps
   - Add your *.ogg music files to the "JH_JukeboxFramework\data\music" directory. <sup>[!Folder Structure](#folder-structure)</sup>
+  
   - Register your music files by adding them to the "JH_JukeboxFramework\sound.lua" file.
+    
   - Optional: Track your music additions by writing them into the "JH_JukeboxFramework\main.lua" file.
 
 ## Credits
