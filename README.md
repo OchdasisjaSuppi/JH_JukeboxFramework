@@ -6,12 +6,12 @@ An easy way to add custom music to Jupiter Hell.<br/>
   - A music file sample in the "[data/music](data/music)" folder that replaces the Jupiter Hell main menu music.<br/>
   - A "[sound.lua](/sound.lua)" file with all music registers and extra documentation to help identify where the music files are used in the game.<br/>
   - A "[main.lua](/main.lua)" file that can be used to document your music additions to the game. I structured it like this:<br/>
-```
-Ingame Location -----
-  -- music register name
-  Path\to\music		
-    music_file.ogg			    | "SONG"		(ALBUM)			# 100% Working
-```
+    ```
+    Ingame Location -----
+      -- music register name
+      Path\to\music		
+        music_file.ogg			    | "SONG"		(ALBUM)			# 100% Working
+    ```
 
 ## Music File Format
 The game uses the Ogg Vorbis format for music files.
