@@ -7,7 +7,7 @@
 Music Callisto	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
 	-- music_main_01
 	data\music		
-		jh_main.ogg					| "SONG"		(ALBUM)			# 100% Working
+		jh_main.ogg					| "Titel"	(Duke Nukem 64)		# 100% Working
 
 	-- music_callisto_01
 	data\music\callisto\
@@ -119,4 +119,5 @@ Music Beyond	-----	-----	-----	-----	-----	-----	-----	-----	-----	-----
 	data\music\beyond\
 		jh_e1a4.ogg					| "SONG"		(ALBUM)			# Have a nice day!
 --]]
+
 
