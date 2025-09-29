@@ -1,4 +1,5 @@
 # Jukebox — A Music Mod Framework For Jupiter Hell
+![An image of a colourful jukebox, drawn in a pixel art style.](/../../../../OchdasisjaSuppi/Test/blob/main/Jukebox250.png) <br/>
 An easy way to add custom music to Jupiter Hell.<br/>
 
 ## Jukebox Framework Content
